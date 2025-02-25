@@ -75,6 +75,6 @@ def main():
     print(classification_report(y_test, y_pred))
     print(confusion_matrix(y_test, y_pred))
 
-# Example usage
+
 if __name__ == "__main__":
     main()
